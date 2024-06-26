@@ -1,0 +1,42 @@
+
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+tr:hover {background-color: coral;}
+th, td {
+    border-bottom: 1px solid #ddd;
+  }
+  th {
+    background-color: #0444aa;
+    color: white;
+  }
+  .one{
+    background-color: rgb(38, 121, 165);
+    color: white;
+    font-weight: 600;
+  }
+  .two{
+    background-color: rgb(74, 88, 179);
+    color: white;
+    font-weight: 600;
+  }
+.three{
+    background-color: #1d3966;
+    color: white;
+    font-weight: 600;
+}
+.four{
+    background-color: #243889;
+    color: white;
+    font-weight: 600;
+}
+.five{
+    background-color: #495b9f;
+    color: white;
+    font-weight: 600;
+}
+
+
+  
+ 
